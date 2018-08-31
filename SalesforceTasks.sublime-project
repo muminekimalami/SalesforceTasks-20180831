@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "C:\\Users\\akatyrench001\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\HaoIDE\\SalesforceTasks-20180831", 
+            "folder_exclude_patterns": [
+                ".templates"
+            ], 
+            "file_exclude_patterns": [
+                "*.*-meta.xml", 
+                "*.sublime-project", 
+                "package.zip"
+            ]
+        }
+    ]
+}

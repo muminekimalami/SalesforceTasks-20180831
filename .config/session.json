@@ -1,0 +1,17 @@
+{
+    "success": true, 
+    "instance_url": "https://eu16.salesforce.com", 
+    "metadata_url": "https://eu16.salesforce.com/services/Soap/m/35.0", 
+    "project name": "SalesforceTasks", 
+    "apex_url": "https://eu16.salesforce.com/services/Soap/s/35.0", 
+    "rest_url": "https://eu16.salesforce.com/services/data/v35.0", 
+    "partner_url": "https://eu16.salesforce.com/services/Soap/u/35.0", 
+    "headers": {
+        "Accept": "application/json", 
+        "Authorization": "OAuth 00D1t000000FPr9!AQcAQGXrCejmvKzuCWtB4bEimXWcpqwq02OEpFD428xx2WYnePtgkNrz.i3HDzaweDgUgMX0fThoQm7sJyw.7aLqYog0NrHy", 
+        "Content-Type": "application/json; charset=UTF-8"
+    }, 
+    "time_stamp": "2018-08-31 12:34:52", 
+    "session_id": "00D1t000000FPr9!AQcAQGXrCejmvKzuCWtB4bEimXWcpqwq02OEpFD428xx2WYnePtgkNrz.i3HDzaweDgUgMX0fThoQm7sJyw.7aLqYog0NrHy", 
+    "user_id": "0051t000000mOoFAAU"
+}
