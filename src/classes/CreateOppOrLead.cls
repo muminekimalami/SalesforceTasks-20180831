@@ -17,7 +17,6 @@ global class CreateOppOrLead implements Database.Batchable<sObject>, Database.St
         List<Task> tasks = new List<Task>();
         List<Lead> leads = new List<Lead>();
 
-
         Set<Id> accountsId = new Set<Id>();
         Set<String> emails = new Set<String>();
         for (Analitical_Staging_Object__c a : scope) {
